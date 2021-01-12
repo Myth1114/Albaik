@@ -1,0 +1,21 @@
+.subheader {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(226, 231, 235);
+  line-height: 1rem;
+  /* position: fixed; */
+  width: 100%;
+  overflow-x: scroll;
+  border-radius: 20px;
+}
+
+.subheader::-webkit-scrollbar {
+  width: 0px;
+}
+
+.sub-category {
+  font-size: small;
+}
+.sub-category:active {
+  color: red;
+}

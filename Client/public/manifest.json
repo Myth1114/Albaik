@@ -1,0 +1,22 @@
+{
+  "name": "React-eShop-App",
+  "short_name": "Albaik",
+  "theme_color": "#232bde",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+
+  "icons": [
+    {
+      "src": "Images/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Images/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

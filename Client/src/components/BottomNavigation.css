@@ -1,0 +1,61 @@
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+  color: black;
+  margin-bottom: 0px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+a {
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+  color: black;
+}
+
+/* .BottomNav {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  height: 6vh;
+  justify-content: space-around;
+  background-color: rgb(255, 255, 255);
+}
+
+.Content a {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  margin-top: 1vh;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.Content svg {
+  display: flex;
+  justify-content: center;
+  color: black;
+  font-size: 5vw;
+}
+
+.Content button.MuiIconButton-root {
+  padding: 0px;
+}
+
+.Content button {
+  outline: none;
+}
+
+.Content span {
+  justify-content: center;
+  display: flex;
+  color: black;
+  font-size: 8px;
+} */

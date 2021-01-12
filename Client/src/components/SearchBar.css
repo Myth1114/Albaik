@@ -1,0 +1,18 @@
+.header_search {
+  display: flex;
+  padding-top: 2px;
+  padding-bottom: 7px;
+}
+
+.header_searchIcon {
+  background-color: rgb(241, 238, 18);
+  padding: 9px;
+  height: 22px !important;
+}
+
+.header_searchInput {
+  height: 15px;
+  padding: 10px;
+  border: 2px solid rgb(230, 223, 223);
+  width: 100%;
+}

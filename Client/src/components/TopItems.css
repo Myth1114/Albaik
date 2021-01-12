@@ -1,0 +1,118 @@
+.topproducts {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* border-bottom: 2px solid #f1ebeb;  */
+  background-color: white;
+
+  margin-left: 0px;
+  position: relative;
+  width: 100%;
+  overflow-x: scroll;
+  overflow-x: auto;
+}
+
+.topproducts::-webkit-scrollbar {
+  width: 0px;
+}
+
+.categoriesImage {
+  border: 1px solid #ddd;
+  border-radius: 50%;
+
+  width: 50px;
+  height: 50px;
+  margin: 0px;
+}
+
+.restraunt {
+  flex-direction: column;
+  display: flex;
+  /* flex-direction: column; */
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.cosmetics {
+  flex-direction: column;
+  display: flex;
+  /* flex-direction: column; */
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.medicine {
+  flex-direction: column;
+  display: flex;
+  /* flex-direction: column; */
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.grocery {
+  flex-direction: column;
+  display: flex;
+  /* flex-direction: column; */
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.fruits {
+  flex-direction: column;
+  display: flex;
+  /* flex-direction: column; */
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.vegetables {
+  flex-direction: column;
+  display: flex;
+  /* flex-direction: column; */
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.vestige {
+  flex-direction: column;
+  display: flex;
+  /* flex-direction: column; */
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.dairy {
+  flex-direction: column;
+  display: flex;
+  /* flex-direction: column; */
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.text {
+  font-size: 14px;
+}
+/* .category-items{
+  font-size: small;
+} */
+
+/* .topproducts {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* border-bottom: 2px solid #f1ebeb;  */
+/* margin-left: 0px;
+  width: 100%;
+  overflow-x: scroll;
+  overflow-x: auto; */
+/* } */
+
+/* .topproducts::-webkit-scrollbar {
+  width: 0px;
+}
+
+.topproducts img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin: 0px;
+}
+.topItems {
+  color: rgb(4, 14, 105);
+  padding-top: 20px;
+} */
+/* .category-items{
+    font-size: small;
+} */
